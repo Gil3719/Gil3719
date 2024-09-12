@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá 👋
+Meu nome é Gildazio Ferrreira Brazil Terceiro
+Estou atualmente cursando Análise e Desenvolvimento de Sistemas pela faculdade Descomplica.
 
 <!--
 **Gil3719/Gil3719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
