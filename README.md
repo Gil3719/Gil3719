@@ -1,5 +1,7 @@
 ## Olá 👋
+
 Meu nome é Gildazio Ferrreira Brazil Terceiro
+
 Estou atualmente cursando Análise e Desenvolvimento de Sistemas pela faculdade Descomplica.
 
 <!--
